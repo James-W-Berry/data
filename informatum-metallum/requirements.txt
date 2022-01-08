@@ -1,0 +1,7 @@
+datetime
+requests
+pandas
+itertools
+BeautifulSoup
+geopy
+Nominatim

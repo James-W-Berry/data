@@ -1,0 +1,5 @@
+Resources:
+https://www.census.gov/data/developers/about/terms-of-service.html
+https://github.com/jonchar/ma-scraper
+https://github.com/eesur/country-codes-lat-long
+
